@@ -1,0 +1,5 @@
+Azure Configuration
+  - For node version Setting
+    - WEBSITE_NODE_DEFAULT_VERSION - Runtime varaiables
+  - For auto installation of node
+    - SCM_DO_BUILD_DURING_DEPLOYMENT 0/1
